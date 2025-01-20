@@ -26,4 +26,5 @@ A visually appealing and user-friendly web application for coffee enthusiasts to
 
 
 ## **Preview 👀**
+https://github.com/user-attachments/assets/22f8507c-3799-416a-a98c-bf01e8bb4743
 
